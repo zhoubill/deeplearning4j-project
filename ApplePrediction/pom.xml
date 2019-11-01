@@ -18,7 +18,7 @@
 		<opencsv.version>3.9</opencsv.version>
 		<guava.version>23.0</guava.version>
 		<jfreechart.version>1.0.19</jfreechart.version>
-		<spark.version>2.1.0</spark.version>
+		<spark.version>2.2.3</spark.version>
 	</properties>
 
 	<dependencies>
